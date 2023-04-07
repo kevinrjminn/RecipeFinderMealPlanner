@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593756214807",
+    "project_id": "recipefindermealplanner",
+    "storage_bucket": "recipefindermealplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593756214807:android:87b9b6f3226fa71306ee52",
+        "android_client_info": {
+          "package_name": "com.usingintent.recipefindermealplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593756214807-817252tcbvl24mgv80iou4rqvdb1eca7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQmeF7NBKlcNzWfgCEkgB22mcpiHFjC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593756214807-817252tcbvl24mgv80iou4rqvdb1eca7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
